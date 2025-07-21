@@ -1,0 +1,6 @@
+[submodule "ParcelAuthAPI"]
+	path = ParcelAuthAPI
+	url = https://github.com/Anant3133/ParcelAuthAPI
+[submodule "smart-parcel-ui"]
+	path = smart-parcel-ui
+	url = https://github.com/Anant3133/smart-parcel-ui
