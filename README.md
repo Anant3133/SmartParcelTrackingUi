@@ -15,7 +15,6 @@ It supports three user roles: *Sender, **Handler, and **Admin* to create, update
 - [Backend Dependencies](#backend-dependencies)  
 - [Setup Instructions](#setup-instructions)  
 - [Screenshots](#screenshots)  
-- [License](#license)  
 
 ---
 
@@ -234,7 +233,3 @@ Profile page with editable avatar and personal details
 
 
 ---
-
----
-
-Would you like me to help format an example screenshot section with markdown image links? Or prepare a CONTRIBUTING.md?
