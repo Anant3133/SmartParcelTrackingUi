@@ -223,13 +223,31 @@ Screenshots
 
 Sender Dashboard — Parcel creation with QR code
 
+<img width="1877" height="760" alt="Screenshot 2025-07-15 160424" src="https://github.com/user-attachments/assets/042e1530-3b17-4df6-8a83-f6646af4ddf1" />
+
 Handler Dashboard — QR code scanner and status update
+
+<img width="1906" height="860" alt="Screenshot 2025-07-10 150917" src="https://github.com/user-attachments/assets/c4951980-d962-42b7-b950-c65dc552166d" />
+
+<img width="427" height="445" alt="Screenshot 2025-07-10 151934" src="https://github.com/user-attachments/assets/52a9c887-d4ef-4417-9559-ebdffca5d5bd" />
 
 Admin Dashboard — Parcel list, tamper alerts, and analytics charts
 
+<img width="765" height="352" alt="Screenshot 2025-07-31 123423" src="https://github.com/user-attachments/assets/c3e37ebd-f6ec-4530-aa55-3f84114e9810" />
+
+<img width="763" height="363" alt="image" src="https://github.com/user-attachments/assets/0693a2c7-84d5-440d-991a-37d71e177338" />
+
+<img width="761" height="347" alt="image" src="https://github.com/user-attachments/assets/72dc693e-49fb-4442-b394-e0ea20f6d403" />
+
+<img width="841" height="551" alt="image" src="https://github.com/user-attachments/assets/7f7ad6a0-1980-41fd-b7bb-fb12830d3a0d" />
+
 Map view showing parcel routes
 
+<img width="815" height="542" alt="Screenshot 2025-07-10 151741" src="https://github.com/user-attachments/assets/ce7b62b7-40ca-42bb-b5b2-53ba22905113" />
+
 Profile page with editable avatar and personal details
+
+<img width="1899" height="863" alt="Screenshot 2025-07-15 155151" src="https://github.com/user-attachments/assets/63b543f7-a626-4add-92f9-b16b1d5fbb87" />
 
 
 ---
